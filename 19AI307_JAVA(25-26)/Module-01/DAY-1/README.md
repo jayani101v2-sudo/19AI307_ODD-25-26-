@@ -29,14 +29,23 @@ To write a Java program that reads two integer numbers from the user and perform
 
 
 Start the program.
+
 Create an object of the Scanner class to take input from the user.
+
 Read the first integer input from the user and store it in variable num1.
+
 Read the second integer input from the user and store it in variable num2.
+
 Calculate the sum of num1 and num2, and display the result.
+
 Calculate the difference (num1 - num2), and display the result.
+
 Calculate the product of num1 and num2, and display the result.
+
 Calculate the quotient of num1 divided by num2, and display the result.
+
 Calculate the remainder of num1 divided by num2, and display the result.
+
 Close the Scanner object.
 
 
