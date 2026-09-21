@@ -1,4 +1,4 @@
-# Ex.No:3(E) INNER CLASS
+# Ex.No:3(E) ENUMS
 
 ## QUESTION:
 
